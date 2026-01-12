@@ -1,0 +1,450 @@
+<header class="header_wrap dark_skin">
+    <div class="top-header light_skin bg-theme-blue">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-lg-auto col-md-3 col-sm-6 d-none d-md-block">
+                    <ul class="contact_detail list_none text-center text-md-left">                        
+                        <li class="p-0"><a href="mailto:info@cdmi.in" title="click here for send us email"><i class="ti-email"></i>info@cdmi.in</a></li>
+                        <li class="p-0 ml-3 d-lg-inline-block d-none"><a class="nav-link p-0" href="#" data-toggle="modal" data-target="#certificate" title="Verify Your Certificate"><i class="fas fa-certificate"></i> Verify Certificate</a></li>
+                    </ul>
+                    
+                </div>
+                <div class="col-lg-auto col-md-5 col-sm-6 col-12 text-center">
+                    <ul class="list_none que_cont text-center">
+                        <li class="text-center"><a href="tel:+919033316003" title="Have any Question? Contact Now" class="text-white">HAVE ANY QUESTION ? +91 90333 16003</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-auto col-md-4 col-sm-6 col-12">
+                    <div class="d-flex flex-wrap align-items-center justify-content-md-end justify-content-center mt-md-0">
+                        <div class="dropdown rounded border mr-3">
+                          <a class="btn btn-sm text-white dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Select City : Surat
+                          </a>
+                          <ul class="dropdown-menu dropdown-menu-center">
+                            <li><a class="dropdown-item" href="https://www.cdmi.in/">Surat</a></li>
+                            <li><a class="dropdown-item" href="https://www.cdmi.in/navsari">Navsari</a></li>
+                            <li><a class="dropdown-item" href="https://www.cdmi.in/ahmedabad">Ahmedabad</a></li>
+                          </ul>
+                        </div>
+                        <ul class="list_none social_icons social_white text-center text-md-right">
+                            <li><a href="https://www.facebook.com/CreativeMultimediaInstituteSurat" rel="nofollow" title="Follow us on Facebook" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+                            <li><a href="https://twitter.com/cdmi_multimedia" target="_blank" rel="nofollow" title="Follow us on Twitter"><i class="fa-brands fa-x-twitter"></i></a></li>
+                            <li><a href="https://g.page/creativemultimediasurat?share" target="_blank" rel="nofollow" title="Find us on Map"><i class="fa-brands fa-google-plus-g"></i></a></li>
+                            <li><a href="https://www.linkedin.com/school/creative-multimedia-institute/" target="_blank" rel="nofollow" title="Follow us on Linkedin"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            <li><a href="https://www.instagram.com/creative_multimedia_institute/" target="_blank" rel="nofollow" title="Follow us on Instagram"><i class="fa-brands fa-instagram"></i></a></li>
+                            <li><a href="https://www.youtube.com/c/CreativeDesignMultimediaInstitute" target="_blank" rel="nofollow" title="Subscribe us on Youtube"><i class="fa-brands fa-youtube"></i></a></li>
+                            <li><a href="https://api.whatsapp.com/send?phone=919033316003" target="_blank" rel="nofollow" title="Chat on Whatsapp"><i class="fa-brands fa-whatsapp"></i></a></li>
+                        </ul>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg"> 
+            <a class="navbar-brand main_logo" href="https://www.cdmi.in/" title="Best web design class in surat">
+                <img class="logo_dark" src="https://www.cdmi.in/assets/front/images/creative-logo-blue.svg" alt="Creative Design &amp; Multimedia Institute" title="Creative Design &amp; Multimedia Institute">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="ion-android-menu"></span> </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="">
+                        <a class="nav-link active" href="https://www.cdmi.in/" title="CDMI - Home">Home</a>
+                    </li>
+                    <li class="dropdown-mega-menu">
+                        <a class="dropdown-toggle nav-link " href="javascript:void(0)" data-toggle="dropdown" title="CDMI - Courses">Courses</a>
+                        <div class="dropdown-menu">
+                            <div class="row p-4"> 
+                                                           
+                                <div class="col-lg-3 mega-menu-col">
+                                    <h6 class="font-theme-blue text-uppercase"><a href="https://www.cdmi.in/courses/multimedia-course-training" title="Development Courses Institute in Surat">Development Courses</a></h6>
+                                    <ul class="pb-2">
+                                        
+                                       
+                                                                                               
+                                        <li>
+                                            <a href="https://www.cdmi.in/flutter-development-training-in-surat" title="Master In Flutter Development institute in surat"><i class="far fa-check-circle pr-3"></i>Master In Flutter Development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/android-training-surat" title="Master In Android Development institute in surat"><i class="far fa-check-circle pr-3"></i>Master In Android Development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/game-development-course-surat" title="Master In Game Development institute in surat"><i class="far fa-check-circle pr-3"></i>Master In Game Development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/full-stack-developer-course-in-surat" title="Master In Full Stack Development institute in surat"><i class="far fa-check-circle pr-3"></i>Master In Full Stack Development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/web-development-course-surat" title="Master In Web Development institute in surat"><i class="far fa-check-circle pr-3"></i>Master In Web Development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/react-native-app-development-surat" title="Master In React Native institute in surat"><i class="far fa-check-circle pr-3"></i>Master In React Native</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/data-science-course-surat" title="Master In Data Science institute in surat"><i class="far fa-check-circle pr-3"></i>Master In Data Science</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/aspnet-training-surat" title="Master In ASP.net development institute in surat"><i class="far fa-check-circle pr-3"></i>Master In ASP.net development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/data-analytics-course-surat" title="Master In Data Analytics institute in surat"><i class="far fa-check-circle pr-3"></i>Master In Data Analytics</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/software-testing-course-surat" title="Master in Software Testing institute in surat"><i class="far fa-check-circle pr-3"></i>Master in Software Testing</a>
+                                        </li>
+                                                                            
+                                    </ul>
+                                  
+                                </div>
+                                                       
+                                <div class="col-lg-3 mega-menu-col">
+                                    <h6 class="font-theme-blue text-uppercase"><a href="https://www.cdmi.in/courses/graphics-design-training" title="Design Courses Institute in Surat">Design Courses</a></h6>
+                                    <ul class="pb-2">
+                                        
+                                       
+                                                                                               
+                                        <li>
+                                            <a href="https://www.cdmi.in/web-design-course-surat" title="Master In Web Design institute in surat"><i class="far fa-check-circle pr-3"></i>Master In Web Design</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/ui-ux-design-course-surat" title="Master in UI/UX Design institute in surat"><i class="far fa-check-circle pr-3"></i>Master in UI/UX Design</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/animation-course-surat" title="Master In 2D/3D Animation institute in surat"><i class="far fa-check-circle pr-3"></i>Master In 2D/3D Animation</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/Master-In-2D-Animation" title="Master In 2D Animation institute in surat"><i class="far fa-check-circle pr-3"></i>Master In 2D Animation</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/Master-In-3D-Animation" title="Master In 3D Animation institute in surat"><i class="far fa-check-circle pr-3"></i>Master In 3D Animation</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/vfx-training-in-surat" title="Master In VFX institute in surat"><i class="far fa-check-circle pr-3"></i>Master In VFX</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/graphic-design-course-surat" title="Advance Graphics Design institute in surat"><i class="far fa-check-circle pr-3"></i>Advance Graphics Design</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/video-editing-course-surat" title="Video Editing institute in surat"><i class="far fa-check-circle pr-3"></i>Video Editing</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/game-design-course-surat" title="2D/3D Game Design institute in surat"><i class="far fa-check-circle pr-3"></i>2D/3D Game Design</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/autodesk-maya-training" title="Maya Pro | 3Ds Max Pro  institute in surat"><i class="far fa-check-circle pr-3"></i>Maya Pro | 3Ds Max Pro </a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/blender-training-surat" title="Blender 3D Design institute in surat"><i class="far fa-check-circle pr-3"></i>Blender 3D Design</a>
+                                        </li>
+                                                                            
+                                    </ul>
+                                  
+                                </div>
+                                                       
+                                <div class="col-lg-3 mega-menu-col">
+                                    <h6 class="font-theme-blue text-uppercase"><a href="https://www.cdmi.in/courses/software-training-institute" title="Programming IT Institute in Surat">Programming IT</a></h6>
+                                    <ul class="pb-2">
+                                        
+                                       
+                                                                                               
+                                        <li>
+                                            <a href="https://www.cdmi.in/c-programming-course" title="C Programming institute in surat"><i class="far fa-check-circle pr-3"></i>C Programming</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/nodejs-training-surat" title="Node JS institute in surat"><i class="far fa-check-circle pr-3"></i>Node JS</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/c-plus-plus-programming" title="C++ Programming institute in surat"><i class="far fa-check-circle pr-3"></i>C++ Programming</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/java-training-course-surat" title="Java Programming institute in surat"><i class="far fa-check-circle pr-3"></i>Java Programming</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/ios-training-in-surat" title="IOS institute in surat"><i class="far fa-check-circle pr-3"></i>IOS</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/php-training-in-surat" title="Advance PHP institute in surat"><i class="far fa-check-circle pr-3"></i>Advance PHP</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/laravel-training-in-surat" title="Laravel institute in surat"><i class="far fa-check-circle pr-3"></i>Laravel</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/wordpress-training-in-surat" title="Wordpress institute in surat"><i class="far fa-check-circle pr-3"></i>Wordpress</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/codeigniter-training-in-surat" title="CodeIgniter institute in surat"><i class="far fa-check-circle pr-3"></i>CodeIgniter</a>
+                                        </li>
+                                                                            
+                                    </ul>
+                                  
+                                </div>
+                                                       
+                                <div class="col-lg-3 mega-menu-col">
+                                    <h6 class="font-theme-blue text-uppercase"><a href="https://www.cdmi.in/courses/latest-technology-course" title="Trendy Courses Institute in Surat">Trendy Courses</a></h6>
+                                    <ul class="pb-2">
+                                        
+                                       
+                                                                                               
+                                        <li>
+                                            <a href="https://www.cdmi.in/angular-js-training-in-surat" title="Angular JS institute in surat"><i class="far fa-check-circle pr-3"></i>Angular JS</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/react-js-training-in-surat" title="React JS institute in surat"><i class="far fa-check-circle pr-3"></i>React JS</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/ethical-hacking-surat" title="Ethical Hacking institute in surat"><i class="far fa-check-circle pr-3"></i>Ethical Hacking</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/unity-3d-training-in-surat" title="Unity 3D institute in surat"><i class="far fa-check-circle pr-3"></i>Unity 3D</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/python-training-in-surat" title="Python institute in surat"><i class="far fa-check-circle pr-3"></i>Python</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/react-native-course-surat" title="React Native institute in surat"><i class="far fa-check-circle pr-3"></i>React Native</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/desktop-development-course-surat" title="Desktop App Development institute in surat"><i class="far fa-check-circle pr-3"></i>Desktop App Development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/java-springboot-course-surat" title="java spring boot institute in surat"><i class="far fa-check-circle pr-3"></i>java spring boot</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/cyber-security-course" title="Cyber Security institute in surat"><i class="far fa-check-circle pr-3"></i>Cyber Security</a>
+                                        </li>
+                                                                            
+                                    </ul>
+                                  
+                                </div>
+                                                       
+                                <div class="col-lg-3 mega-menu-col">
+                                    <h6 class="font-theme-blue text-uppercase"><a href="https://www.cdmi.in/courses/civil-engineering-training" title="Civil-Mech. Engineering Institute in Surat">Civil-Mech. Engineering</a></h6>
+                                    <ul class="pb-2">
+                                        
+                                       
+                                                                                               
+                                        <li>
+                                            <a href="https://www.cdmi.in/autocad-class-surat" title="AutoCAD Civil institute in surat"><i class="far fa-check-circle pr-3"></i>AutoCAD Civil</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/3d-max-course-in-surat" title="3Ds Max institute in surat"><i class="far fa-check-circle pr-3"></i>3Ds Max</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/google-sketchup-training-in-surat" title="Google SketchUp institute in surat"><i class="far fa-check-circle pr-3"></i>Google SketchUp</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/lumion-course-surat" title="Lumion institute in surat"><i class="far fa-check-circle pr-3"></i>Lumion</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/revit-training-in-surat" title="Revit Architecture institute in surat"><i class="far fa-check-circle pr-3"></i>Revit Architecture</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/interior-exterior-training-in-surat" title="Interior &amp; Exterior Design institute in surat"><i class="far fa-check-circle pr-3"></i>Interior &amp; Exterior Design</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/autocad-training-in-surat" title="AutoCAD Mechanical institute in surat"><i class="far fa-check-circle pr-3"></i>AutoCAD Mechanical</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/solidworks-training-in-surat" title="SolidWorks institute in surat"><i class="far fa-check-circle pr-3"></i>SolidWorks</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/creo-training-in-surat" title="Creo Parametrics 2.0  institute in surat"><i class="far fa-check-circle pr-3"></i>Creo Parametrics 2.0 </a>
+                                        </li>
+                                                                            
+                                    </ul>
+                                  
+                                </div>
+                                                       
+                                <div class="col-lg-3 mega-menu-col">
+                                    <h6 class="font-theme-blue text-uppercase"><a href="https://www.cdmi.in/courses/business-development-training" title="Business Development Institute in Surat">Business Development</a></h6>
+                                    <ul class="pb-2">
+                                        
+                                       
+                                                                                               
+                                        <li>
+                                            <a href="https://www.cdmi.in/business-management" title="Master in Business Management institute in surat"><i class="far fa-check-circle pr-3"></i>Master in Business Management</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/digital-marketing-course-in-surat" title="Digital Marketing institute in surat"><i class="far fa-check-circle pr-3"></i>Digital Marketing</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/personality-development-course-surat" title="Personality Development institute in surat"><i class="far fa-check-circle pr-3"></i>Personality Development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/business-development-training-surat" title="Entrepreneurship Development institute in surat"><i class="far fa-check-circle pr-3"></i>Entrepreneurship Development</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/spoken-english-classes-in-surat" title="Corporate English institute in surat"><i class="far fa-check-circle pr-3"></i>Corporate English</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/social-media-marketing-surat" title="Social Media Marketing institute in surat"><i class="far fa-check-circle pr-3"></i>Social Media Marketing</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/business-marketing" title="Business Marketing institute in surat"><i class="far fa-check-circle pr-3"></i>Business Marketing</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/business-administration" title="Business Administration institute in surat"><i class="far fa-check-circle pr-3"></i>Business Administration</a>
+                                        </li>
+                                                                            
+                                    </ul>
+                                  
+                                </div>
+                                                       
+                                <div class="col-lg-3 mega-menu-col">
+                                    <h6 class="font-theme-blue text-uppercase"><a href="https://www.cdmi.in/courses/computer-institute-in-surat" title="Short Term Courses Institute in Surat">Short Term Courses</a></h6>
+                                    <ul class="pb-2">
+                                        
+                                       
+                                                                                               
+                                        <li>
+                                            <a href="https://www.cdmi.in/adobe-illustrator-course" title="Adobe Illustrator institute in surat"><i class="far fa-check-circle pr-3"></i>Adobe Illustrator</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/ecommerce-training-institute-surat" title="Master in E-Commerce institute in surat"><i class="far fa-check-circle pr-3"></i>Master in E-Commerce</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/adobe-xd-training-surat" title="Adobe XD institute in surat"><i class="far fa-check-circle pr-3"></i>Adobe XD</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/tally-course-in-surat" title="Tally Accounting institute in surat"><i class="far fa-check-circle pr-3"></i>Tally Accounting</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/ccc-course-in-surat" title="CCC- Basic Computer Course institute in surat"><i class="far fa-check-circle pr-3"></i>CCC- Basic Computer Course</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/photoshop-course-in-surat" title="Photoshop institute in surat"><i class="far fa-check-circle pr-3"></i>Photoshop</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/coreldraw-training-surat" title="CorelDraw institute in surat"><i class="far fa-check-circle pr-3"></i>CorelDraw</a>
+                                        </li>
+                                                                            
+                                    </ul>
+                                  
+                                </div>
+                                                       
+                                <div class="col-lg-3 mega-menu-col">
+                                    <h6 class="font-theme-blue text-uppercase"><a href="https://www.cdmi.in/courses/textile-design-course-surat" title="Textile Designing Institute in Surat">Textile Designing</a></h6>
+                                    <ul class="pb-2">
+                                        
+                                       
+                                                                                               
+                                        <li>
+                                            <a href="https://www.cdmi.in/digital-printing-course-surat" title="Digital Print institute in surat"><i class="far fa-check-circle pr-3"></i>Digital Print</a>
+                                        </li>
+                                                                                            
+                                        <li>
+                                            <a href="https://www.cdmi.in/hotfix" title="Hotfix Design institute in surat"><i class="far fa-check-circle pr-3"></i>Hotfix Design</a>
+                                        </li>
+                                                                            
+                                    </ul>
+                                  
+                                </div>
+                                                          
+                            </div>
+                        </div>
+                    </li>
+                    <!-- <li class="">
+                        <a class="nav-link " href="" title="CDMI - College Courses">College Courses</a>
+                    </li> -->
+                    <li class="dropdown">
+                        <a class="dropdown-toggle nav-link " href="javascript:void(0)" data-toggle="dropdown" title="Our Activities">Activities</a>
+                        <div class="dropdown-menu">
+                            <ul> 
+                                <li><a class="dropdown-item nav-link nav_item" href="https://www.cdmi.in/gallery" title="CDMI - Album">Gallery</a></li> 
+                                <li><a class="dropdown-item nav-link nav_item" href="https://www.cdmi.in/event" title="CDMI - Events">Events</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="">
+                        <a class="nav-link " href="https://www.cdmi.in/blog" title="CDMI - Latest Blogs">Blog</a>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle nav-link " href="javascript:void(0)" data-toggle="dropdown" title="Know About Creative Multimedia">Know Us</a>
+                        <div class="dropdown-menu">
+                            <ul> 
+                                <li><a class="dropdown-item nav-link nav_item" href="https://www.cdmi.in/about-us" title="CDMI - About us">About Us</a></li> 
+                                <li><a class="dropdown-item nav-link nav_item" href="https://www.cdmi.in/success-stories" title="CDMI - Success Stories">Success Stories</a></li>
+                                <li><a class="dropdown-item nav-link nav_item" href="https://www.cdmi.in/placement-partners" title="Our Placement Partners">Placement Partners</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="">
+                        <a class="nav-link " href="https://www.cdmi.in/contact-us" title="Reach us">Get in Touch</a>
+                    </li>
+                 
+                                        <li class="dropdown">
+                        <a class="dropdown-toggle nav-link " href="javascript:void(0)" data-toggle="dropdown">Student Zone</a>
+                        <div class="dropdown-menu">
+                            <ul> 
+                                <li><a class="dropdown-item nav-link nav_item" href="#" data-toggle="modal" data-target="#Login" title="CDMI Student Corner">Student Login</a></li> 
+                                <li><a class="dropdown-item nav-link nav_item" href="#" title="CDMI Student's Work">Showcase</a></li>
+                            </ul>
+                        </div>
+                    </li>           
+                             
+                    <li class="d-lg-none d-md-block ">
+                        <a class="nav-link" href="#" title="Verifiy CDMI Certificate HERE" data-toggle="modal" data-target="#certificate">Verify Certificate</a>
+                    </li>                 
+
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>

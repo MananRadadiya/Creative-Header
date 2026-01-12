@@ -1,0 +1,154 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+/* HEADER */
+.header {
+  width: 100%;
+  background: #ffffff;
+  border-bottom: 1px solid #eaeaea;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* NAVBAR */
+.navbar {
+  max-width: 1200px;
+  margin: auto;
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* LOGO */
+.logo {
+  height: 45px;
+  cursor: pointer;
+}
+
+/* MENU */
+.nav-menu {
+  list-style: none;
+  display: flex;
+  gap: 32px;
+}
+
+/* MENU ITEM */
+.nav-item {
+  position: relative;
+}
+
+.nav-item > a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #222;
+  padding: 8px 0;
+  display: inline-block;
+  transition: color 0.2s ease;
+}
+
+.nav-item > a:hover {
+  color: #2563eb;
+}
+
+/* SIMPLE DROPDOWN */
+.dropdown {
+  position: absolute;
+  top: 130%;
+  left: 0;
+  min-width: 180px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+  padding: 10px 0;
+  animation: fadeUp 0.25s ease forwards;
+}
+
+.dropdown li {
+  list-style: none;
+}
+
+.dropdown a {
+  display: block;
+  padding: 10px 18px;
+  color: #333;
+  font-size: 14px;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.dropdown a:hover {
+  background: #f4f6ff;
+  color: #2563eb;
+}
+
+/* MEGA MENU */
+.mega-menu {
+  position: absolute;
+  top: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 700px;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px 30px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+  animation: fadeUp 0.3s ease forwards;
+}
+
+/* MEGA COLUMN */
+.mega-column h4 {
+  font-size: 15px;
+  font-weight: 600;
+  color: #111;
+  margin-bottom: 14px;
+}
+
+.mega-column ul {
+  list-style: none;
+}
+
+.mega-column li {
+  margin-bottom: 10px;
+}
+
+.mega-column a {
+  font-size: 14px;
+  text-decoration: none;
+  color: #444;
+  transition: color 0.2s ease, padding-left 0.2s ease;
+}
+
+.mega-column a:hover {
+  color: #2563eb;
+  padding-left: 6px;
+}
+
+/* ANIMATION */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* RESPONSIVE (basic hide for now) */
+@media (max-width: 900px) {
+  .nav-menu {
+    display: none;
+  }
+}

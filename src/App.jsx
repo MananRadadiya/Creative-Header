@@ -1,11 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./Navbar";
+import menuData from "./menu";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <>
+      <Navbar
+        logo="https://www.cdmi.in/assets/front/images/creative-logo-blue.svg"
+        menu={menuData}
+      />
+    </>
   );
 }
 
